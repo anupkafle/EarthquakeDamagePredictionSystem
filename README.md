@@ -9,7 +9,7 @@ You can clone this branch and use it right now using the methods given below.
 It is best to use python **virtualenv** tool to build locally and use Python 3.8.5:  
 > virtualenv venv  
 > source venv/bin/activate  
-> git clone https://github.com/RochakSedai/EarthQuake-Damage-Prediction.git
+> git clone https://github.com/anupkafle/EarthquakeDamagePredictionSystem.git
 
 Then you navigate to the base directory of the project and install the requirements in your vitual environment  
 > pip install -r requirements.txt  
